@@ -4,20 +4,29 @@ Programmer since 2021 • Automation • APIs • Web • Systems
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=van1a&label=Profile%20views&color=0e75b6&style=flat" alt="van1a" />
+  <img src="https://komarev.com/ghpvc/?username=van1a&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=van1a&show_icons=true&hide_title=true" />
+  <img src="https://streak-stats.demolab.com?user=van1a" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=van1a&layout=compact" />
 </p>
 
 <hr/>
 
 <h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/code/code-original.svg" width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="20"/>
   About Me
 </h3>
 
 <ul>
-  <li>Started programming in <b>2021</b></li>
+  <li>Programming since <b>2021</b></li>
   <li><b>2024</b> — Automation, public game APIs, custom APIs</li>
-  <li><b>2025</b> — Web development (frontend & backend)</li>
+  <li><b>2025</b> — Web development</li>
   <li><b>2026</b> — Java & C++, low-level concepts (pointers, memory management)</li>
 </ul>
 
@@ -32,7 +41,7 @@ Programmer since 2021 • Automation • APIs • Web • Systems
 </ul>
 
 <h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/>
   Ask Me About
 </h3>
 
@@ -49,7 +58,6 @@ Programmer since 2021 • Automation • APIs • Web • Systems
 
 <p>
   <a href="mailto:eljaysulittulagan@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20"/>
     eljaysulittulagan@gmail.com
   </a>
 </p>
