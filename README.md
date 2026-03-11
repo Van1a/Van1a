@@ -1,7 +1,4 @@
-<h1 align="center">Hi, I'm Eljay</h1>
-<h3 align="center">
-Programmer since 2021 • Automation • APIs • Web • Systems
-</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=van1a&label=Profile%20views&color=0e75b6&style=flat" />
